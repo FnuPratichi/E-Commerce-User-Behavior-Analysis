@@ -16,3 +16,4 @@ This project analyzes over **100K user activity records** to identify behavioral
 <img width="1190" height="1154" alt="image" src="https://github.com/user-attachments/assets/8937ee0a-f627-43c2-9ed4-ce7aa0f89a16" />
 <img width="2890" height="1140" alt="image" src="https://github.com/user-attachments/assets/cec5b7ec-c24c-4607-b7e8-d6b4f7478bd6" />
 
+### For better understanding, Check out my detailed blog : https://pratichi3.medium.com/web-usage-mining-for-understanding-user-navigation-patterns-in-ecommerce-7bc6147d5184
